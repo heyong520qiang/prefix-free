@@ -1,1 +1,6 @@
-.shade{ box-shadow: 10px 10px 5px #888888; transform: rotate(5deg);}
+.box {
+    width: 40%;
+    height: 200px;
+    background-color: #a0b3d6;
+    background-image: linear-gradient(top, #beceeb, #34538b);
+}
