@@ -1,6 +1,7 @@
 .box {
-    width: 40%;
+    width: calc(40%-10px);
     height: 200px;
     background-color: #a0b3d6;
+    box-shadow: 5px 5xp 5px #f00;
     background-image: linear-gradient(top, #beceeb, #34538b);
 }
